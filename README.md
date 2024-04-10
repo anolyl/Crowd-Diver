@@ -18,19 +18,16 @@ In Crowd Diver you can immerse yourself in the role of the Seeker, tasked with p
   - The map presents itself as a unique environment in the futuristic style of Solarpunk. With its innovative design and captivating atmosphere, it offers players a visually impressive setting for their adventures.
 
 ## Roles
-- Team Lead, Engineer Lead, Gameplay Programmer, Network Programmer
+- UI Programmer, Network Programmer
 
 ## Engine / Language
-- Unreal Engine 5.3, Mostly Blueprints, ~1% C++
+- Unreal Engine 5.3, Blueprints only
 
 ## Plugins
-- [Advanced Sessions Plugin](https://forums.unrealengine.com/t/advanced-sessions-plugin/30020) (Used for multiplayer connection & steam implementation)
 - [UI Navigation 3.0](https://www.unrealengine.com/marketplace/en-US/product/ui-navigation-3)
 
 ## Responsibilities
-- Multiplayer & fixing Multiplayer bugs
-- Advanced Sessions Plugin implementation
-- Most Gameplay features
-- Basic Game Flow
-- Characters implementation
+- Partial Multiplayer & fixing Multiplayer bugs
+- UI Design & Programming
+- Profiling & Bug Fixing
 - Steam release
